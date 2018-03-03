@@ -1,3 +1,4 @@
+##Assignment 3- Count all the wh(what, when, where, why, who, how etc.) words is any three different categories in Brown corpus
 from nltk.corpus import brown
 import nltk
 cfd = nltk.ConditionalFreqDist(
